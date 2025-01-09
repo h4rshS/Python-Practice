@@ -1,0 +1,5 @@
+Hello There
+This is an input file
+And it is primarily created for reading content from this file
+And writing it into another file
+That's it!
